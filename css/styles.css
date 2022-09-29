@@ -1,0 +1,13 @@
+div {
+    color: rgb(35, 27, 27);
+    background-color: black;
+  }
+
+.alert-text {
+    color: red;
+  }
+
+img {
+  height: auto;
+  width: 500px;
+  }
